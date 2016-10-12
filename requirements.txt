@@ -1,3 +1,4 @@
--e git+https://github.com/MarkusShepherd/literumi@3da554a26277bfacc9fdb38eb0b7d1e9be455242#egg=literumi
+-e git+https://github.com/MarkusShepherd/literumi@f4a26c5bebce63298c29d0db33b11de4323f4537#egg=literumi
 neo4j-driver==1.0.2
 -e git+https://github.com/savoirfairelinux/num2words@02bb4bcf135ec2910514bdb65982856652306914#egg=num2words
+roman==2.0.0
